@@ -4,9 +4,13 @@ A jupyter notebook server extension for static image handler. we can switch stat
 
 ## Installation
 
-`pip install notebook-static-image-handler`
+```sh
+pip install notebook-static-image-handler
+```
 
 ## Usage
 
-`jupyter serverextension enable notebook_static_image_handler`
+```sh
+jupyter serverextension enable notebook_static_image_handler
+```
 
